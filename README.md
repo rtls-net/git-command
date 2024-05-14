@@ -34,6 +34,8 @@ git branch -M `<new Branch name>`
 
 git remote add origin https://github.com/rtls-net/git-command.git
 
+if required git pull https://github.com/rtls-net/git-command.git
+
 git push -u origin `<new Branch name>`
 
 
