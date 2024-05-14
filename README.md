@@ -26,6 +26,13 @@ git push -u origin main
 
 git init
 
+
+
+
+### General Command
+
+git pull -r origin master
+
 git add *
 
 git commit -m "type message"
